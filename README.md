@@ -32,4 +32,4 @@ I believe in the strength of community and the power of collaboration. Feel free
 
 Make contact! I'm always open to learning, sharing knowledge, and making new connections. Let's embark on this coding journey together! 🚀
 
-[GIF of Killua's Godspeed](https://media.tenor.com/0k6Q0qMgCLsAAAAC/killua-godspeed.gif)
+![GIF of Killua's Godspeed](https://media.tenor.com/0k6Q0qMgCLsAAAAC/killua-godspeed.gif)
