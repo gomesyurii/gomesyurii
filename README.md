@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm passionate about exploring the realms of techn
 
 I'm on a perpetual learning curve, and right now, I'm actively adding to my skill set:
 
-- **Fluig:** Navigating the intricacies of Fluig to harness its power for efficient and effective solutions.
+- **Fluig:** Navigating the intricacies of Fluig to harness its power for efficient and effective solutions. 
 
 - **Ruby:** Embracing the elegance and flexibility of Ruby to broaden my programming horizons.
 
@@ -32,4 +32,4 @@ I believe in the strength of community and the power of collaboration. Feel free
 
 Make contact! I'm always open to learning, sharing knowledge, and making new connections. Let's embark on this coding journey together! 🚀
 
-[GIF of a person coding]([https://media.giphy.com/media/l41l8124h43eE/giphy.gif](https://media.tenor.com/0k6Q0qMgCLsAAAAC/killua-godspeed.gif)https://media.tenor.com/0k6Q0qMgCLsAAAAC/killua-godspeed.gif)
+[GIF of Killua's Godspeed](https://media.tenor.com/0k6Q0qMgCLsAAAAC/killua-godspeed.gif)
