@@ -2,6 +2,8 @@
 
 Welcome to my GitHub profile! I'm passionate about exploring the realms of technology, and my journey involves a deep dive into the exciting worlds of machine learning, mobile development, and game development. I love to bring ideas to life through code and constantly seek ways to enhance my skills.
 
+![Killua](https://i.pinimg.com/originals/fd/42/7f/fd427f05dab9e401f285497c0287416d.gif)
+
 ## 👀 What I'm Into
 
 - **Machine Learning:** Delving into the fascinating field of machine learning to unravel its mysteries and unlock its potential.
