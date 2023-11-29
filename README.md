@@ -5,8 +5,8 @@ Welcome to my GitHub profile! I'm passionate about exploring the realms of techn
 ## 👀 What I'm Into
 
 - **Machine Learning:** Delving into the fascinating field of machine learning to unravel its mysteries and unlock its potential.
-  
-- **Mobile and Game Development:** Crafting immersive experiences for mobile platforms and gaming environments, pushing boundaries and creating something extraordinary. 
+
+- **Mobile and Game Development:** Crafting immersive experiences for mobile platforms and gaming environments, pushing boundaries and creating something extraordinary.
 
 ## 🌱 Currently Growing In
 
@@ -26,8 +26,10 @@ I'm on a perpetual learning curve, and right now, I'm actively adding to my skil
 
 ## 📫 Let's Connect!
 
-I believe in the strength of community and the power of collaboration. Feel free to reach out to me on instagram/linkedin:
+I believe in the strength of community and the power of collaboration. Feel free to reach out to me on Instagram/LinkedIn:
 
 - **Instagram:** [gomes_yur1](https://www.instagram.com/gomes_yur1/)
 
 Make contact! I'm always open to learning, sharing knowledge, and making new connections. Let's embark on this coding journey together! 🚀
+
+[GIF of a person coding]([https://media.giphy.com/media/l41l8124h43eE/giphy.gif](https://media.tenor.com/0k6Q0qMgCLsAAAAC/killua-godspeed.gif)https://media.tenor.com/0k6Q0qMgCLsAAAAC/killua-godspeed.gif)
