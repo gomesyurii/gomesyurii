@@ -8,6 +8,9 @@ Welcome to my GitHub profile! I'm passionate about exploring the realms of techn
 
 - **Mobile and Game Development:** Crafting immersive experiences for mobile platforms and gaming environments, pushing boundaries and creating something extraordinary.
 
+![Killua Godspeed1](https://media.tenor.com/0k6Q0qMgCLsAAAAC/killua-godspeed.gif)
+
+
 ## 🌱 Currently Growing In
 
 I'm on a perpetual learning curve, and right now, I'm actively adding to my skill set:
