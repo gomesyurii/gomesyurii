@@ -17,6 +17,8 @@ Driven by my curiosity, perfectionism and perseverance, always willing to work i
 
 I'm on a perpetual learning curve, and right now, I'm actively adding to my skill set:
 
+- **Unity:** Immersing myself in the art of game development, crafting engaging experiences and pushing the boundaries of visual aesthetics using the Unity platform.
+
 - **Fluig:** Navigating the intricacies of Fluig to harness its power for efficient and effective solutions. 
 
 - **Ruby:** Embracing the elegance and flexibility of Ruby to broaden my programming horizons.
@@ -25,9 +27,7 @@ I'm on a perpetual learning curve, and right now, I'm actively adding to my skil
 
 - **Golang:** Exploring the efficiency and speed of Go to develop high-performance applications.
 
-- **Unity:** Crafting engaging and visually stunning games using Unity.
-
-- **Node.js:** Leveraging the power of JavaScript on the server side with Node.js.
+- **Node.js:** Leveraging the power of JavaScript on the server side with Node.js. 
 
 ![GIF of Killua's Godspeed](https://i.pinimg.com/originals/33/77/fa/3377faef13704e77bec4f03bb2c1110b.gif)
 
