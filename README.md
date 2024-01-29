@@ -24,13 +24,15 @@ I'm on a perpetual learning curve, and right now, I'm actively adding to my skil
 
 - **Node.js:** Leveraging the power of JavaScript on the server side with Node.js. 
 
-![GIF of Killua's Godspeed](https://i.pinimg.com/originals/33/77/fa/3377faef13704e77bec4f03bb2c1110b.gif)
+![GIF of Killua's Godspeed](https://gifdb.com/images/high/killua-zoldyck-bored-yawn-86i9nr7v09sg6f9f.webp)
+
+
 
 ## 🚀 Let's Connect!
 
 I believe in the strength of community and the power of collaboration. Feel free to reach out to me via:
 
-- **Email:** your.email@example.com
+- **Email:** yuri5_gomes@hotmail.com
 - **Instagram:** [gomes_yur1](https://www.instagram.com/gomes_yur1/)
 - **LinkedIn:** [Yuri Gomes](https://www.linkedin.com/in/your-linkedin-profile/)
 
