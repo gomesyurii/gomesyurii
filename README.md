@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I'm passionate about exploring the realms of technology, and my journey involves a deep dive into the exciting worlds of machine learning, mobile development, web, and game development. I love to bring ideas to life through code and constantly seek ways to enhance my skills. Driven by my curiosity, perfectionism, and perseverance, always willing to work in a team and have fun!
 Furthermore I possess the ability to utilize technology in areas not necessarily correlated to optimize processes and innovate, bringing a fresh perspective and efficiency to various domains.
 
-![Killua](https://i.pinimg.com/originals/fd/42/7f/fd427f05dab9e401f285497c0287416d.gif)
+![GIF of Killua's Godspeed](https://gifdb.com/images/high/killua-zoldyck-bored-yawn-86i9nr7v09sg6f9f.webp)
 
 ## 🌱 What I'm Into
 
@@ -18,7 +18,7 @@ I'm on a perpetual learning curve, and right now, I'm actively adding to my skil
 - **Golang:** Exploring the efficiency and speed of Go to develop high-performance applications.
 - **Node.js:** Leveraging the power of JavaScript on the server side with Node.js. 
 
-![GIF of Killua's Godspeed](https://gifdb.com/images/high/killua-zoldyck-bored-yawn-86i9nr7v09sg6f9f.webp)
+![Killua](https://i.pinimg.com/originals/fd/42/7f/fd427f05dab9e401f285497c0287416d.gif)
 
 ## 🎓 Academic Background and Certifications
 
