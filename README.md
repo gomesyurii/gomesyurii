@@ -1,7 +1,6 @@
 # 👋 Hello, I'm Yuri Gomes!
 
-I'm passionate about exploring the realms of technology, and my journey involves a deep dive into the exciting worlds of machine learning, mobile development, web, and game development. I love to bring ideas to life through code and constantly seek ways to enhance my skills. Driven by my curiosity, perfectionism, and perseverance, always willing to work in a team and have fun!
-Furthermore I possess the ability to utilize technology in areas not necessarily correlated to optimize processes and innovate, bringing a fresh perspective and efficiency to various domains.
+I'm a tech enthusiast who enjoys exploring the world of machine learning, mobile development, web development, and game development. I thrive on the challenge of turning ideas into reality through code, and I'm always looking for ways to improve my skills. and open to collaborate and have fun while doing it. Beyond the technical aspects, I also enjoy applying technology to unexpected areas, bringing innovative solutions and fresh perspectives to different domains.
 
 ![GIF of Killua's Godspeed](https://gifdb.com/images/high/killua-zoldyck-bored-yawn-86i9nr7v09sg6f9f.webp)
 
