@@ -14,8 +14,6 @@ I'm on a perpetual learning curve, and right now, I'm actively adding to my skil
 - **Node.js:** Leveraging the power of JavaScript on the server side with Node.js.
 - **Flutter:** Developing cross-platform mobile applications with Flutter to create beautiful and responsive user interfaces. 
 
-![Killua](https://i.pinimg.com/originals/fd/42/7f/fd427f05dab9e401f285497c0287416d.gif)
-
 ## 🎓 Academic Background and Certifications
 
 I am currently in the last semester of my college degree, majoring in software engineering. Additionally, I hold several certifications that further augment my skills and knowledge in various areas.
