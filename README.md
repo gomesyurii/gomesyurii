@@ -24,5 +24,3 @@ I believe in the strength of community and the power of collaboration. Feel free
 - **Email:** yuri5_gomes@hotmail.com
 - **Instagram:** [gomes_yur1](https://www.instagram.com/gomes_yur1/)
 - **LinkedIn:** [Yuri Gomes](https://www.linkedin.com/in/your-linkedin-profile/)
-
-Let's embark on this coding journey together!
